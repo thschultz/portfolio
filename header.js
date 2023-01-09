@@ -29,6 +29,9 @@ class Header extends HTMLElement
                     <li>
                         <a href="about.html">About</a>
                     </li>
+                    <li>
+                    <a href="/web430/schultz-valuestream.html">Web 430</a>
+                    </li>
                 </ul>
             </div>
         `;
