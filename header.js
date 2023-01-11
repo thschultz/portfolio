@@ -12,25 +12,25 @@ class Header extends HTMLElement
             <div id="nav-container">
                 <ul id="nav-list">
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="/index.html">Home</a>
                     </li>
                     <li>
-                        <a href="projects.html">Projects</a>
+                        <a href="/projects.html">Projects</a>
                     </li>
                     <li>
-                        <a href="database.html">Database Diagrams</a>
+                        <a href="/database.html">Database Diagrams</a>
                     </li>
                     <li>
-                        <a href="api.html">API Unit Tests</a>
+                        <a href="/api.html">API Unit Tests</a>
                     </li>
                     <li>
-                        <a href="resume.html">Resume</a>
+                        <a href="/resume.html">Resume</a>
                     </li>
                     <li>
-                        <a href="about.html">About</a>
+                        <a href="/about.html">About</a>
                     </li>
                     <li>
-                    <a href="web430/schultz-valuestream.html">Web 430</a>
+                    <a href="../web430/schultz-valuestream.html">Web 430</a>
                     </li>
                 </ul>
             </div>
